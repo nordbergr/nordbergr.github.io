@@ -57,6 +57,11 @@ main > .tagline {
 
 .icons-social i {
 	padding: 10px;
+	transition:.2s;
+}
+
+.icons-social i:hover {
+	transform:scale(1.03)
 }
 
 .devto {
